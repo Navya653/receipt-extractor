@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+input[type="file"] {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.receipt-output {
+  margin-top: 20px;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.receipt-output ul {
+  padding-left: 20px;
+}
